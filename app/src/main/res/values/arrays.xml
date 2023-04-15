@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="skills">
+        <item>Java</item>
+        <item>C++</item>
+        <item>C</item>
+        <item>Python</item>
+        <item>JavaScript</item>
+        <item>PHP</item>
+        <item>MySQL</item>
+        <item>VB</item>
+        <item>Cobol</item>
+        <item>Kotlin</item>
+        <item>CSS</item>
+    </string-array>
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="name">Name</string>
+    <string name="placeholder_name">Max Muster</string>
+    <string name="strasse">Str</string>
+    <string name="plz">Zip</string>
+    <string name="ort">Ort</string>
+    <string name="skills">Sprachen</string>
+    <string name="beschreibung">Beschreibung</string>
+    <string name="app_name">Jobportal - Profileingabe</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_save">Save</string>
+</resources>

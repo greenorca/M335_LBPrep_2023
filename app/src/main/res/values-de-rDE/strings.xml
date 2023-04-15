@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jobportal - Profileingabe</string>
+    <string name="name">Name</string>
+    <string name="placeholder_name">Max Muster</string>
+    <string name="strasse">Str</string>
+    <string name="plz">PLZ</string>
+    <string name="ort">Ort</string>
+    <string name="skills">Sprachen</string>
+    <string name="beschreibung">Beschreibung</string>
+</resources>
